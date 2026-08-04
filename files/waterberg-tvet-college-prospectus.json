@@ -1,0 +1,15 @@
+[
+  {
+    "id": "waterberg-occupational-chef",
+    "name": "Occupational Certificate: Chef",
+    "entry_requirement": {
+      "min_grade": 10,
+      "max_grade": 12,
+      "subjects": [
+        { "subject": ["Hospitality", "Consumer Studies"], "minimum_percent": 40 },
+        { "subject": ["Mathematics", "Mathematical Literacy"], "minimum_percent": 40 },
+        { "subject": ["English"], "minimum_percent": 50 }
+      ]
+    }
+  }
+]

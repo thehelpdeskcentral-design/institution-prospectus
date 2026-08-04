@@ -1,0 +1,81 @@
+[
+  {
+    "id": "cput-dip-agriculture",
+    "name": "Dip Agriculture",
+    "institution_code": "CPUT",
+    "aps": 30,
+    "entry_requirement": {
+      "min_grade": 10,
+      "subjects": [
+        { "subject": ["Mathematics"], "minimum_percent": 60 },
+        { "subject": ["Mathematical Literacy"], "minimum_percent": 80 },
+        { "subject": ["Physical Science"], "minimum_percent": 70 },
+        { "subject": ["Life Sciences"], "minimum_percent": 70 },
+        { "subject": ["English"], "minimum_percent": 70 }
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "cput-dip-biotechnology",
+    "name": "Dip Biotechnology",
+    "institution_code": "CPUT",
+    "aps": 30,
+    "entry_requirement": {
+      "min_grade": 10,
+      "subjects": [
+        { "subject": ["Mathematics"], "minimum_percent": 70 },
+        { "subject": ["Physical Science"], "minimum_percent": 70 },
+        { "subject": ["Life Sciences"], "minimum_percent": 70 },
+        { "subject": ["English"], "minimum_percent": 70 }
+      ],
+      "notes": ["no_maths_lit: true — Mathematical Literacy accepted instead of Mathematics"]
+    }
+  },
+  {
+    "id": "cput-dip-marine-science",
+    "name": "Dip Marine Science",
+    "institution_code": "CPUT",
+    "aps": 30,
+    "entry_requirement": {
+      "min_grade": 10,
+      "subjects": [
+        { "subject": ["Mathematics"], "minimum_percent": 70 },
+        { "subject": ["Life Sciences"], "minimum_percent": 70 },
+        { "subject": ["English"], "minimum_percent": 70 }
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "cput-dip-horticulture",
+    "name": "Dip Horticulture",
+    "institution_code": "CPUT",
+    "aps": 30,
+    "entry_requirement": {
+      "min_grade": 10,
+      "subjects": [
+        { "subject": ["Mathematics"], "minimum_percent": 60 },
+        { "subject": ["Mathematical Literacy"], "minimum_percent": 80 },
+        { "subject": ["Life Sciences"], "minimum_percent": 70 },
+        { "subject": ["English"], "minimum_percent": 70 }
+      ],
+      "notes": []
+    }
+  },
+  {
+    "id": "cput-dip-mathematical-sciences",
+    "name": "Dip Mathematical Sciences",
+    "institution_code": "CPUT",
+    "aps": 28,
+    "entry_requirement": {
+      "min_grade": 10,
+      "subjects": [
+        { "subject": ["Mathematics"], "minimum_percent": 70 },
+        { "subject": ["Physical Science"], "minimum_percent": 70 },
+        { "subject": ["English"], "minimum_percent": 70 }
+      ],
+      "notes": []
+    }
+  }
+]
